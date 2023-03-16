@@ -1,0 +1,45 @@
+.background{
+  background-image: url(./images/mine.jpg);
+  height: 600px;
+ 
+}
+  .port{
+  font-family: arial;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+
+}
+.hpage{
+  text-align: center;
+}
+.paragraph{
+  color: red;
+  font-size: xx-large;
+}
+.designer{
+  color: blue;
+font-size: xx-large;
+margin-top: 80px;
+text-align: center;
+}
+.break{
+  text-align: center;
+  font-size: x-large;
+}
+.more-button{
+  color: white;
+  background: red;
+  padding-left: 6px;
+  margin-left: 6px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+.hire-button{
+  padding-left: 6px;
+  margin-left: 6px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}

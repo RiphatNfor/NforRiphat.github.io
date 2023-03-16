@@ -1,0 +1,23 @@
+body{
+background-image: url(./images/background.jfif);
+
+}
+.image{
+  width:70%;
+  height: 70%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.portfolio{
+  color: white;
+  text-align: center;
+  font-family: arial;
+}
+.paragraph{
+color: black;
+font-size: large;
+}
+.text{
+  background-color: antiquewhite;
+}
